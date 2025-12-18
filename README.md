@@ -1,5 +1,4 @@
 # CSC30043-Loan-Default-Prediction
-CSC30043: Loan Default Prediction Analysis
 This repository contains the Python implementation for a comparative study of machine learning models used to predict loan defaults. The project focuses on handling class imbalance and evaluating model performance through both traditional metrics and statistical significance testing.
 
 Project Overview
